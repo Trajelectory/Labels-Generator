@@ -22,8 +22,8 @@ pip install fpdf2 pillow
 ## 🚀 Installation & Exécution
 1. **Clonez ce dépôt** :
    ```bash
-   git clone https://github.com/votre-repo/generateur-etiquettes.git
-   cd generateur-etiquettes
+   git clone https://github.com/Trajelectory/Labels-Generator.git
+   cd Labels-Generator
    ```
 2. **Lancez le script** :
    ```bash
